@@ -38,8 +38,22 @@ This project was completed as part of the **Boot.dev** backend development curri
 
 ---
 
+## 📚 Course Chapters Completed
+
+**What will you learn?**  
+Write a toy agentic code editor in Python, similar to Claude Code or Cursor's Agent Mode. Understand how agents work from scratch by using the Google Gemini API to create an LLM-powered code agent. You'll use function calling and feedback loops to build an agent that can find and fix bugs in a real project!
+
+### Chapter List
+1. **LLMs** — Learn how LLMs work and send prompts to the Gemini API using the Python client library
+2. **Functions** — Write the functions your AI agent will need to modify files and run Python code
+3. **Function Calling** — Give your AI agent the ability to call functions based on its system prompt and context window
+4. **Agents** — Give your tool a proper feedback loop to make it truly "agentic" and fix a real bug
+
+---
+
 ## 📖 Table of Contents
 
+- [Course Chapters Completed](#-course-chapters-completed)
 - [Features](#-features)
 - [How It Works](#-how-it-works)
 - [Tech Stack](#-tech-stack)
@@ -329,13 +343,25 @@ Contributions are welcome! Here's how to get started:
 - Add tests for any new tool functions
 - Keep tool functions sandboxed — never allow file access outside the working directory
 
+
+---
+
+## 👨‍💻 About Me
+
+**Waleed Tarbosh** — Aspiring developer, currently learning backend development through Boot.dev.
+
+- 🐙 **GitHub:** [@waleedtarbosh](https://github.com/waleedtarbosh)
+- 📧 **Email:** [waleedtarbush@gmail.com](mailto:waleedtarbush@gmail.com)
+- 🎓 **Boot.dev Profile:** [View Certificate](https://www.boot.dev/certificates/c72ee9f4-a798-49ca-8068-ccd8e5832750)
+---
+
 ---
 
 ## 📄 License
 
 This project is distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
----
+
 
 <p align="center">
   <img src="assets/logo.png" alt="Boot.dev" width="120" /><br/>
@@ -343,4 +369,8 @@ This project is distributed under the **MIT License**. See [`LICENSE`](LICENSE) 
   <a href="https://www.boot.dev/certificates/c72ee9f4-a798-49ca-8068-ccd8e5832750">
     🏆 View My Certificate
   </a>
+</p>
+
+<p align="center">
+  <a href="#-ai-agent-project">⬆️ Back to Top</a>
 </p>
