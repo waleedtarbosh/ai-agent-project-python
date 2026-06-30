@@ -1,0 +1,18 @@
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Tooling / uv
+.uv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
