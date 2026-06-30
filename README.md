@@ -148,7 +148,7 @@ Write a toy agentic code editor in Python, similar to Claude Code or Cursor's Ag
 | Requirement        | Minimum Version | Install Guide                                                                    |
 | ------------------ | --------------- | -------------------------------------------------------------------------------- |
 | **Python**         | 3.12            | [python.org](https://www.python.org/downloads/)                                  |
-| **pip**            | latest          | Installed with Python                                                            |
+| **uv**             | latest          | [docs.astral.sh/uv](https://docs.astral.sh/uv/getting-started/installation/)    |
 | **Gemini API Key** | —               | [aistudio.google.com](https://aistudio.google.com/app/apikey)                    |
 
 ### Installation
@@ -158,8 +158,8 @@ Write a toy agentic code editor in Python, similar to Claude Code or Cursor's Ag
 git clone https://github.com/<your-username>/ai-agent-project-python.git
 cd ai-agent-project-python
 
-# 2. Install dependencies with pip
-pip install google-genai==1.12.1 google-generativeai>=0.8.6 python-dotenv==1.1.0
+# 2. Install dependencies with uv
+uv sync
 
 # 3. Copy the example environment file and add your API key
 cp .env.example .env    # Linux / macOS
