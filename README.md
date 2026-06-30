@@ -316,7 +316,7 @@ uv run python test_run_python_file.py
 
 ```bash
 cd calculator
-python -m unittest tests.py -v
+python3 -m unittest tests.py -v
 ```
 
 ---
