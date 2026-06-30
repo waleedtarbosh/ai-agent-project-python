@@ -355,13 +355,13 @@ Contributions are welcome! Here's how to get started:
 - 🎓 **Boot.dev Profile:** [View Certificate](https://www.boot.dev/certificates/c72ee9f4-a798-49ca-8068-ccd8e5832750)
 ---
 
----
+
 
 ## 📄 License
 
 This project is distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
-
+---
 
 <p align="center">
   <img src="assets/logo.png" alt="Boot.dev" width="120" /><br/>
